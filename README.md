@@ -107,3 +107,9 @@ Healthcare-Service-Operations-Analytics/
 │
 └── README.md
 ``` 
+
+---
+### Disclaimer
+This project is a personal portfolio work designed for educational and demonstration purposes only. The dataset used is **synthetic and simulated**, created to mirror real-world operational challenges. It does not represent actual confidential data, financial records, or employee information from **GE HealthCare**.
+
+All logos and brand names are trademarks of their respective owners. This project is not affiliated with, endorsed by, or connected to GE HealthCare.
