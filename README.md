@@ -60,18 +60,20 @@ I implemented a parameter table to allow leadership to test new bonus structures
   ![Projected Bonus Cost](images/scenario_slider_demo.gif)
 *(Snapshot: Real-time calculation of budget impact using the slider)*
 
-Parameter Table Generation:
+**Parameter Table Generation:**
 ```dax
 Bonus Adjustment = GENERATESERIES(-0.5, 0.5, 0.05)
+```
 
-Forecast Measure:
+**Forecast Measure:**
 ```dax
 Projected Bonus Cost = 
 VAR Adjustment = 'Bonus Adjustment'[Bonus Adjustment Value]
 RETURN
 [Total Bonus Paid] * (1 + Adjustment)
-
+```
 ---
+
 ## Row-Level Security (RLS) Filter
 I implemented a Row-Level Security (RLS) Filter on the Dim_Technicians table to restrict data access. A specific role was created for the Warsaw Regional Manager.
 
