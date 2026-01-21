@@ -109,5 +109,7 @@ Average Downtime Hours = AVERAGE(Fact_Tickets[Downtime_Hours])
 ```
 ## 10. Row-Level Security (RLS) Filter
 This logic is applied to the Dim_Technicians table to restrict data access. A specific role was created for the Warsaw Regional Manager.
+```text
 // Filter expression applied to Dim_Technicians table
 [Location] = "Warsaw"
+```
