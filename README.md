@@ -20,8 +20,6 @@ A global healthcare equipment provider was spending **$1.67M** annually in servi
 ## Key decision: 
 Instead of analyzing technicians in isolation, I cross-referenced performance against machine age, asset type, and customer tier. This revealed patterns invisible in traditional HR dashboards.
 
----
-
 **Key Business Questions:**
 * Does paying more for Seniority yield better Technical Performance?
 * At what stage in the machine lifecycle do failure rates spike?
