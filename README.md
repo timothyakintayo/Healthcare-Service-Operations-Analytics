@@ -7,11 +7,11 @@
 * Asset lifecycle mapping revealed critical Year-6 vulnerability high repeat service calls annually.
 
 ## The Problem
-A global healthcare equipment provider was spending *$1.67M* annually in service bonuses yet First Time Fix Rates remained stuck at 85%. Customer complaints were climbing. Downtime hours were increasing. Leadership suspected that the current "Time-Based" incentive model was rewarding seniority rather than technical performance, but had no data to prove it. I was brought in to find out where the money was going and why it wasn't improving outcomes.
+A global healthcare equipment provider was spending **$1.67M** annually in service bonuses yet First Time Fix Rates remained stuck at 85%. Customer complaints were climbing. Downtime hours were increasing. Leadership suspected that the current "Time-Based" incentive model was rewarding seniority rather than technical performance, but had no data to prove it. I was brought in to find out where the money was going and why it wasn't improving outcomes.
 
 **Tools Used:** Power BI, DAX, Power Query.
 **Key Achievement:** 
-* Identified a "Tenure Trap" inefficiency and proposed a model to save **$300k annually** while improving asset uptime.
+* Identified a "Tenure Trap" inefficiency and proposed a model to save **$300K** annually while improving asset uptime.
 * Recognized customers experiencing poor service deliveries by the company and potentially stopped them from churning.
 * Identified healthcare machines sold by the company that clients had the most downtime hours  with, and how the age of these machines continously affected their ability to be fixed without repeatedly breaking down.
 
