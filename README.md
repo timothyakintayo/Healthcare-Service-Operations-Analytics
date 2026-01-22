@@ -21,7 +21,7 @@ The Service Operations division faced stagnant reliability metrics (85% Fix Rate
 
 ---
 
-## 🛠️ Tech Stack & Methodology
+## Tech Stack & Methodology
 * **Data Modeling:** Star Schema connecting `Fact_Tickets` (12,000 rows) to `Dim_Technicians`, `Dim_Machines`, and `Dim_Calendar`.
 
   ![Star Schema Data Model](images/data_model_ops.png)
