@@ -1,4 +1,4 @@
-# GE HealthCare: Service Incentive & Efficiency Monitor
+# HealthCare: Service Incentive & Efficiency Monitor
 ![Banner](images/ops_dashboard_banner.png)
 
 ## Project Overview
@@ -110,6 +110,6 @@ Healthcare-Service-Operations-Analytics/
 
 ---
 ### Disclaimer
-This project is a personal portfolio work designed for educational and demonstration purposes only. The dataset used is **synthetic and simulated**, created to mirror real-world operational challenges. It does not represent actual confidential data, financial records, or employee information from **GE HealthCare**.
+This project is a personal portfolio work designed for educational and demonstration purposes only. The dataset used is **synthetic and simulated**, created to mirror real-world operational challenges. It does not represent actual confidential data, financial records, or employee information from any healthcare company.
 
-All logos and brand names are trademarks of their respective owners. This project is not affiliated with, endorsed by, or connected to GE HealthCare.
+All logos and brand names are trademarks of their respective owners. This project is not affiliated with, endorsed by, or connected to any company in any way.
