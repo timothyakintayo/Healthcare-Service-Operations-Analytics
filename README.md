@@ -50,7 +50,7 @@ Instead of analyzing technicians in isolation, I cross-referenced performance ag
 ### 2. The Mid-Lifecycle Crisis
 **Finding:** Age analysis exposed a specific vulnerability at **Year 6**, where Fix Rate drops from 87% to 83%.
 
-  ![Dip and Recovery of First Time Fix](downtime_hours.jpg)
+  ![Dip and Recovery of First Time Fix](images/downtime_hours.jpg)
   *(Snapshot of the Dip in year 6 based on the machine age)*
   
 * **Root Cause:** Original factory components fail simultaneously around the 6-year mark. We weren't dealing with technician incompetence we were dealing with predictable mechanical decay.
