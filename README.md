@@ -60,8 +60,6 @@ Instead of analyzing technicians in isolation, I cross-referenced performance ag
 **Finding:** **MRI Scanners** were identified as the primary driver of downtime amongst all the machines offered by the organization. It accounted for the highest volume of downtime hours.
 * **Action:** Targeted technical training funded by the $300k bonus savings can help to produce better engineers who can adequately fix the MRI scanners and improve efficiency for customers, and ultimately lower the downtime.
 
----
-
 ### 4. Customers at Risk of Churning
 **Finding:** **Szpital Bennettview hospital** has had the highest downtime hours (6548 hours) with their machines in the last two years, and have raised (519) tickets, there is a potential risk of this customer churning if immediate action is not taken to solve their recurrent machine failure.
 * **Action:** Deploy 2-3 of our best engineers (Engineers with above 90% First Time Fix %) alongside a competent customer success manager to this hospital to resolve their machine problem and prevent customer cancellation. Similar solution should be extended to other customers with high downtime hours and ticket complaints. 
@@ -98,6 +96,7 @@ I implemented a Row-Level Security (RLS) Filter on the Dim_Technicians table to 
 *(Snapshot: Row Level Security filter and output to the report)*
 
 ---
+
 ## 📁 Project Structure
 ```text
 Healthcare-Service-Operations-Analytics/
@@ -124,5 +123,6 @@ Healthcare-Service-Operations-Analytics/
 ``` 
 
 ---
+
 ### Note: 
 Data has been anonymized and aggregated for confidentiality.
