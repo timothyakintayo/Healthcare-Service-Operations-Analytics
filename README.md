@@ -17,8 +17,6 @@ A global healthcare equipment provider was spending **$1.67M** annually in servi
 
 ---
 
-## Key decision: 
-Instead of analyzing technicians in isolation, I cross-referenced performance against machine age, asset type, and customer tier. This revealed patterns invisible in traditional HR dashboards.
 
 **Key Business Questions:**
 * Does paying more for Seniority yield better Technical Performance?
@@ -41,9 +39,9 @@ Instead of analyzing technicians in isolation, I cross-referenced performance ag
 ## Key Insights & Recommendations
 
 ### 1. The "Tenure Trap"
-**Finding:** 15-Year Master Techs maintained an **81% Fix Rate**, identical to 2-Year Junior Techs despite commanding significantly higher compensation packages (3.2x total bonus)
+**Finding:** 15-Year Master Techs maintained an **81% Fix Rate**, identical to 2-Year Junior Techs despite commanding significantly higher compensation packages (tenure-based pay premiums without performance differentiation)
 * **Impact:** The organization was paying a premium for tenure without receiving efficiency gains from the senior employees. Tenure was being rewarded. Competency wasn't.
-* **Action:** Pivot to **Outcome-Based Pay**. Cap tenure multipliers at 1.2x and reallocate savings to training employees; specifically the junior employees that are showing great potential at being good assets to the organization. Training them on how to fix MRI which is the company's equipment that had the highest break down would improve efficiency and service delivery to our clients.
+* **Action:** Pivot to **Outcome-Based Pay**, and reduce total bonus with the help of the scenario planning slider. By reducing the bonus by 10%, the company gets to save $300K, which can be used for targeted trainings for the junior employees focused on fixing MRI; the company's equipment with the highest break down. This will improve efficiency and service delivery to the clients.
 
 ### 2. The Mid-Lifecycle Crisis
 **Finding:** Age analysis exposed a specific vulnerability at **Year 6**, where Fix Rate drops from 87% to 83%.
@@ -51,7 +49,7 @@ Instead of analyzing technicians in isolation, I cross-referenced performance ag
   ![Dip and Recovery of First Time Fix](images/downtime_hours.jpg)
   *(Snapshot of the Dip in year 6 based on the machine age)*
   
-* **Root Cause:** Original factory components fail simultaneously around the 6-year mark. We weren't dealing with technician incompetence we were dealing with predictable mechanical decay.
+* **Further Analysis needed:** Further analysis is needed to ascertain if original factory components fail simultaneously around the 6-year mark. This will help to see if the company is dealing with predictable mechanical decay.
 * **Action:** Instead of blaming the technicians. I recommend that the company institutes a mandatory **Year-5 Preventative Maintenance Overhaul** in view of preventing the great damage that leads to low first time fix in year 6.
 
 ### 3. Critical Asset Risk
