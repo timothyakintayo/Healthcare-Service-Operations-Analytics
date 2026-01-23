@@ -41,7 +41,7 @@ Instead of analyzing technicians in isolation, I cross-referenced performance ag
 ## Key Insights & Recommendations
 
 ### 1. The "Tenure Trap"
-**Finding:** 15-Year Master Techs maintained an **81% Fix Rate**, identical to 2-Year Junior Techs despite commanding significantly higher compensation packages.
+**Finding:** 15-Year Master Techs maintained an **81% Fix Rate**, identical to 2-Year Junior Techs despite commanding significantly higher compensation packages (3.2x total bonus)
 * **Impact:** The organization was paying a premium for tenure without receiving efficiency gains from the senior employees. Tenure was being rewarded. Competency wasn't.
 * **Action:** Pivot to **Outcome-Based Pay**. Cap tenure multipliers at 1.2x and reallocate savings to training employees; specifically the junior employees that are showing great potential at being good assets to the organization. Training them on how to fix MRI which is the company's equipment that had the highest break down would improve efficiency and service delivery to our clients.
 
